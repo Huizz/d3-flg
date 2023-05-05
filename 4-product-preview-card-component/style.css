@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,700;1,9..144,700&family=Montserrat:ital,wght@0,500;0,700;1,500;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,100..700,0..100&family=Montserrat:ital,wght@0,500;0,700;1,500;1,700&display=swap");
 
 /** CSS reset */
 body,
@@ -88,6 +88,7 @@ button {
   font-size: 2rem;
   line-height: 2rem;
   color: var(--color-very-dark-blue);
+  font-variation-settings: "opsz" 80;
 }
 
 .product__description {
@@ -112,6 +113,7 @@ button {
   font-size: 2rem;
   line-height: 2rem;
   color: var(--color-dark-cyan);
+  font-variation-settings: "opsz" 80;
 }
 
 .product-price__original {
