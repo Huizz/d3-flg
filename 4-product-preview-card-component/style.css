@@ -134,7 +134,8 @@ button {
   justify-content: center;
 }
 
-.product-cta:hover {
+.product-cta:hover,
+.product-cta:focus {
   background-color: hsl(158, 43%, 18%);
   cursor: pointer;
 }
