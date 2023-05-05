@@ -141,6 +141,7 @@ button {
 
 .product-cta__icon {
   color: var(--color-white);
+  margin-right: 0.75rem;
 }
 
 .product-cta__text {
