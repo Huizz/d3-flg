@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Huizz/d3-flg/tree/master/5-social-proof-section-master](https://github.com/Huizz/d3-flg/tree/master/5-social-proof-section-master)
-- Live Site URL: [https://huizz.github.io/d3-flg/5-social-proof-section-master/](https://huizz.github.io/d3-flg/5-social-proof-section-mastert/)
+- Live Site URL: [https://huizz.github.io/d3-flg/5-social-proof-section-master/](https://huizz.github.io/d3-flg/5-social-proof-section-master/)
 
 ## My process
 
